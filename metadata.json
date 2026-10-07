@@ -1,0 +1,7 @@
+{
+  "name": "RAON TRAVEL",
+  "description": "A central de operação da sua agência de turismo. Gestão completa de viagens, viajantes, reservas, financeiro, roteiros, embarque e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
